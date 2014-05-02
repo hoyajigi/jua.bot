@@ -1,0 +1,209 @@
+
+MyPeople BOT:  https://apis.daum.net , 8a29cc1dbc317d6f2ed6ddabee997f1db1333700
+Express server listening on port 3000
+
+POST /callback
+ { content: '주아봇 오픈소스해야겠네 ㅋㅋㅋ',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m12ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '엇',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m2ms[0m
+
+POST /callback
+ { content: '된다',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m2ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '주아',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '쮸아 님 이름 부르기 힘들겠네 이제',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '노드 바보라서 재시작 해줘야 하는주아',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m2ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: 'exit',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m4ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '[{"buddyId":"BU_uFhXdYe8F-DZuB8_uXoZ1w00","isBot":"Y","name":"주아봇","photoId":"myp_pub:536280F90445EA002E"}]',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'inviteToGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: ' dkdlzhd ',
+  buddyId: 'BU_81pJkqLjHNkHD.wkA1khnw00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '아이콩이라니',
+  buddyId: 'BU_81pJkqLjHNkHD.wkA1khnw00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: 'api.hoyajigi.com/person/v1/jua.xml\napi.hoyajigi.com/person/v1/jua.json\napi.hoyajigi.com/person/v1/jua.msgpack',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '이 api를 쓰고 있어요',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '제가 아이콩이라고 한거 아니주아',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+{ message: 'Success', code: '200' }
+
+POST /callback
+ { content: '헐 내이름그만불러',
+  buddyId: 'BU_81pJkqLjHNkHD.wkA1khnw00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m2ms[0m
+
+POST /callback
+ { content: '깃헙에 올려주세여',
+  buddyId: 'BU_81pJkqLjHNkHD.wkA1khnw00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '포크해서 기능추가해야지',
+  buddyId: 'BU_81pJkqLjHNkHD.wkA1khnw00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m2ms[0m
+
+POST /callback
+ { content: '만능봇으로 진화시킵시다',
+  buddyId: 'BU_DYzfc-33MtxdQ2CEjow2Sg00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: 'ㅋㅋㅋㅋㅋㅋㅋ',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+
+POST /callback
+ { content: '그룹방에 봇이 추가 되었을때 콜백이createGroup이 아니라 inviteToGroup라니...',
+  buddyId: 'BU_EvBMaPUVOgowUuWpvkLXgA00',
+  groupId: 'GID_gXbO2',
+  action: 'sendFromGroup' } 
+
+[90mPOST /callback [32m200 [90m1ms[0m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[31merror[39m:   Cannot start forever
+[31merror[39m:   script /var/www/jua.bot/app does not exist.
