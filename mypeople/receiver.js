@@ -45,7 +45,7 @@ exports.sendFromMessage = function(buddyId, content) {
 	bot.buddyProfile(buddyId, function(error, data) {
 		if(!error&&content.indexOf("주아")>-1){
 
-			var reply = "성골-김팜므 김주아 칼퇴의 아이콩";
+			var reply = "성골 미녀 - 김팜므 김주아 칼퇴의 아이콩";
 			bot.sendMessageToBuddy(buddyId, reply, null, function(error, data) {
 				if(!error){
 					console.log(data);
